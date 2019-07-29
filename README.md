@@ -1,4 +1,37 @@
-## Payment Method Feature: ## 
+## Doku Hosted Payment Options Avalaible on Woocomerce Plugin: ## 
+1. Credit Card
+   - Sale
+   - Tokenization
+   - Installment: On & Off Installment
+   
+2. Doku Wallet
+
+3. Bank Transfer:
+   - BCA 
+   - CIMB Niaga
+   - BRI
+   - Permata
+   - Danamon
+   - BNI
+   - Sinarmas
+   - Mandiri
+   - BTN
+   - Maybank
+   - QNB
+   
+4. Internet Banking:
+   - BRI pay
+   - BCA Klikpay
+   - CIMB Clicks
+   - IB Muamalat
+   - IB Permata
+   
+5. Convenience Store: 
+   - Indomaret
+   - Alfamart
+   
+6. Cardless Credit:
+   - Kredivo
 
 ## Installation ##
 Minimum Requirements
@@ -7,12 +40,7 @@ Minimum Requirements
 3. PHP version v7.0 or greater
 4. MySQL version v5.6 or greater
 
-## Simple Installation ##
-1. Login to your Wordpress admin panel.
-2. Go to Plugins menu, click add new and search "Doku".
-3. Install and follow the instructions.
-
-## Manual Installation ##
+## Installation ##
 1. Download the plugin from this repository.
 2. Extract the plugin, then rename the folder modules as doku-woocommerce
 3. Upload the unzipped plugin folder to your WordPress installation's wp-content/plugins/ directory on your control panel
