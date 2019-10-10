@@ -1,4 +1,6 @@
-## Doku Hosted Payment Options Avalaible on Woocomerce Plugin: ## 
+WooCommerce is an open source ecommerce plugin designed for WordPress. This is a relatively fast platform, to be used both for small businesses and large ones. WooCommerce is a regular person friendly. You don't need to be an expert developer to launch a store.
+
+# Doku Hosted Payment Options Avalaible on Woocomerce Plugin: #
 1. Credit Card
    - Sale
    - Tokenization
