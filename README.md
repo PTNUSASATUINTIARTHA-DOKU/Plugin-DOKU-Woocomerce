@@ -1,5 +1,14 @@
 WooCommerce is an open source ecommerce plugin designed for WordPress. This is a relatively fast platform, to be used both for small businesses and large ones. WooCommerce is a regular person friendly. You don't need to be an expert developer to launch a store.
 
+
+In order to facilitate the development of e-commerce through Woocomerce, Doku as the largest payment enabler in Indonesia, provides a payment module that can be used easily and quickly (plug & play) on the Woocomerce platform.
+
+The features available in the Woocomerce plugin are:
+
+1. Online payment in various payment channels in almost all banks in Indonesia.
+2. Fraud detection.
+3. Email confirmation.
+
 # Doku Hosted Payment Options Avalaible on Woocomerce Plugin: #
 1. Credit Card
    - Sale
