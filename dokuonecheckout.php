@@ -91,6 +91,7 @@ function woocommerce_gateway_dokuonecheckout_init()
 						$this->ip_range = "103.10.129.";
 					 	$this->method_title = 'dokuonecheckout';
 						$this->has_fields = true;     // false
+						if ( ! isset($this->prefixid) ) $this->prefixid = null;
 
 						$this->init_form_fields();
 						$this->init_settings();

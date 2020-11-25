@@ -53,7 +53,7 @@ Minimum Requirements
 
 ## Installation ##
 1. Download the plugin from this repository.
-2. Extract the plugin, then rename the folder modules as doku-woocommerce
+2. Extract the plugin, then rename the folder modules as **`dokuonecheckout`**
 3. Upload the unzipped plugin folder to your WordPress installation's wp-content/plugins/ directory on your control panel
 4. Install & enable the plugin from the Plugins menu within the WordPress admin panel.
 5. Go to menu WooCommerce > Settings > Payment > Doku > Manage, fill the configuration fields.
